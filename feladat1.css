@@ -1,0 +1,107 @@
+.elso{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#zold1{background-color: green;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#sarga1{background-color: yellow;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#lila1{background-color: purple;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.masodik{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#zold2{background-color: green;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#sarga2{background-color: yellow;
+    width: 200%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#lila2{background-color: purple;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.harmadik{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+#zold3{background-color: green;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#sarga3{background-color: yellow;
+    width: 200%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#lila3{background-color: purple;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.negyedik{
+    display: flex;
+    width: 600px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#zold4{background-color: green;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+#sarga4{background-color: yellow;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    order: 3;
+}
+#lila4{background-color: purple;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
